@@ -46,17 +46,6 @@ const flag=document.getElementById("flag-container");flag.innerHTML=`<style>
             background: #fff;
             border-left: 1px solid transparent;
         }
-        h1 {
-            text-align: center;
-            position: relative;
-            top: 2em;
-            color: #ffffff;
-            font-weight: 400;
-            font-size: 2.5em;
-            margin: 0;
-            letter-spacing: 5px;
-            text-shadow: 2px 2px #676767;
-        }
         @-webkit-keyframes anim {
             0% {
                 top: 5%;
